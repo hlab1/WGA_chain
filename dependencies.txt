@@ -1,0 +1,4 @@
+samtools/intel/1.14
+mummer/intel/4.0.0rc1
+
+crossmap_delta_to_chain.pl from https://github.com/soybase/crossmap-workflow/blob/master/scripts/crossmap_delta_to_chain.pl
